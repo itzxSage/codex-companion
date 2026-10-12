@@ -1,0 +1,9 @@
+.companion/
+work/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*.zip
+.DS_Store
+.codex/

@@ -1,0 +1,16 @@
+# Optional reference only; not loaded automatically. Do not overwrite global config.
+# Checked against official Codex configuration reference on 2026-10-10.
+# Choose the model and supported effort in /model for your actual account.
+forced_login_method = "chatgpt"
+model_provider = "openai"
+approval_policy = "on-request"
+approvals_reviewer = "user"
+sandbox_mode = "read-only"
+web_search = "disabled"
+
+[agents]
+enabled = false
+
+[apps._default]
+enabled = false
+# Existing MCP servers are a separate surface. Audit them before using private data.

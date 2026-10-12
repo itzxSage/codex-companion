@@ -1,0 +1,23 @@
+# Public source files only. Review each file before sharing.
+.agents/skills/day-plan/SKILL.md
+.agents/skills/day-plan/agents/openai.yaml
+.agents/skills/draft-reply/SKILL.md
+.agents/skills/draft-reply/agents/openai.yaml
+.agents/skills/research-brief/SKILL.md
+.agents/skills/research-brief/agents/openai.yaml
+.agents/skills/wrap-up/SKILL.md
+.agents/skills/wrap-up/agents/openai.yaml
+.gitignore
+AGENTS.md
+LICENSE
+README.md
+SOURCE_MANIFEST.txt
+companion.py
+config/companion.example.toml
+docs/ACCEPTANCE.md
+docs/INTEGRATIONS.md
+docs/LIMITS.md
+docs/SECURITY.md
+docs/SETUP.md
+docs/SOURCES.md
+tests/test_companion.py
